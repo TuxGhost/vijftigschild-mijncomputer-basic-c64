@@ -1,0 +1,13 @@
+{
+    "name": "01.MijnComputer",
+    "description": "Project 01.MijnComputer",
+    "toolkit": "basic",
+    "sources": [
+        "src/main.bas"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}
